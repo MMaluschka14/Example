@@ -1,2 +1,2 @@
 # Example
-Putting example files to use for referance later.
+Putting example files to use for reference later.
